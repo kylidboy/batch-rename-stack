@@ -1,3 +1,3 @@
 # batch-rename-stack
-newbes haskell
+newbie haskell
 a little tool needed in job, just use haskell for practice
